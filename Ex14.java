@@ -2,7 +2,7 @@
  *
  * maman 14 
  * Class Ex 14.
- * @author Elishay Amar ID 318840394
+ * @author Elishay Amar 
  * @2022
  */
 import java.lang.Math;
